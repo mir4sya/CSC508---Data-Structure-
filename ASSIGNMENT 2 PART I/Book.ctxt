@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Book\ here.\r\n\r\n\ @author\ (Nuramirah\ Hasya\ Mohd\ Nizam)\r\n\ @version\ (Part\ II\ 25/5/2021)\r\n
+comment1.params=t\ p\ n
+comment1.target=Book(java.lang.String,\ float,\ int)
+comment2.params=t\ p\ n
+comment2.target=void\ setBook(java.lang.String,\ float,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getTitle()
+comment4.params=
+comment4.target=float\ getPrice()
+comment5.params=
+comment5.target=int\ getNum()
+numComments=6
